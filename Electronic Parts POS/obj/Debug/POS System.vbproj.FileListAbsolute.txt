@@ -1,0 +1,90 @@
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\bin\Debug\POS System.exe.config
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS System.exe
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS System.xml
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS System.pdb
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\bin\Debug\POS System.exe
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\bin\Debug\POS System.pdb
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\bin\Debug\POS System.xml
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\bin\Debug\MySql.Data.dll
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS System.vbprojResolveAssemblyReference.cache
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_dbSettings.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_account.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_addProduct.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_adminPass.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_archive.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_calculator.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_crystalReport.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_editCategory.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_editItem.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_employee.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_input.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_InvMngt.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_manageStock.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_pin.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_posAddItem.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_PosSystem.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_salesReport.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_settings.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_Viewer.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_welcome.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_main.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.LoginForm1.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.Resources.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.SplashScreen1.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS System.vbproj.GenerateResource.Cache
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_restoreCategory.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_critStock.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_accountArchive.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_help.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_supplier.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_trail.resources
+C:\Users\cliff\Desktop\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_dailyReport.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\POS System.exe.config
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\POS System.exe
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\POS System.pdb
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\POS System.xml
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\MySql.Data.xml
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS System.vbprojAssemblyReference.cache
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_dbSettings.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_account.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_accountArchive.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_addProduct.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_adminPass.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_archive.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_calculator.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_critStock.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_crystalReport.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_dailyReport.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_editCategory.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_editItem.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_employee.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_help.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_input.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_InvMngt.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_manageStock.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_pin.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_posAddItem.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_PosSystem.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_restoreCategory.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_salesReport.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_settings.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_supplier.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_trail.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_Viewer.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_welcome.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.frm_main.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.LoginForm1.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.Resources.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS_System.SplashScreen1.resources
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS System.vbproj.GenerateResource.cache
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS System.vbproj.CopyComplete
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS System.exe
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS System.xml
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\obj\Debug\POS System.pdb
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\Google.Protobuf.dll
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\MySql.Data.dll
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\Renci.SshNet.dll
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\Google.Protobuf.xml
+C:\Users\Cliff Marbella\Desktop\4y1sbscpe\POS System\Electronic Parts POS\bin\Debug\Renci.SshNet.xml

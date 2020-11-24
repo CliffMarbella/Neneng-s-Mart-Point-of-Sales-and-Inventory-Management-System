@@ -1,0 +1,38 @@
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.exe.config
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.exe
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.pdb
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.xml
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.vbprojResolveAssemblyReference.cache
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.Resources.resources
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.vbproj.GenerateResource.Cache
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.exe
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.xml
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.pdb
+c:\users\cliff\documents\visual studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_main.resources
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_xx1.resources
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.LoginForm1.resources
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.SplashScreen1.resources
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\bin\Debug\MySql.Data.dll
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_dbSettings.resources
+C:\Users\cliff\Documents\Visual Studio 2015\Projects\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_adminPass.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.exe.config
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.exe
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.xml
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.pdb
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.exe
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.pdb
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\bin\Debug\Electronic Parts POS.xml
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\bin\Debug\MySql.Data.dll
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\bin\Debug\MySql.Data.xml
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.vbprojResolveAssemblyReference.cache
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_dbSettings.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_adminPass.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_main.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.LoginForm1.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.Resources.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.SplashScreen1.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic Parts POS.vbproj.GenerateResource.Cache
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_pos.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_IM.resources
+C:\Users\cliff\Desktop\Electronic Parts POS\Electronic Parts POS\obj\Debug\Electronic_Parts_POS.frm_editItem.resources
